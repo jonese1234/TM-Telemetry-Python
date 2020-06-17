@@ -1,5 +1,6 @@
 # TM-Telemetry-Python
- Basic Trackmania Telemetry in python
+ Basic Trackmania Telemetry in python.
+ Created python modual/extention using C++ and PyBind11 for python 3.8.
  
 ## Download of Python Extention
 https://github.com/jonese1234/TM-Telemetry-Python/releases/tag/v1.0.0
