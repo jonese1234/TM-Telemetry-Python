@@ -1,5 +1,8 @@
 # TM-Telemetry-Python
  Basic Trackmania Telemetry in python
+ 
+## Download of Python Extention
+https://github.com/jonese1234/TM-Telemetry-Python/releases/tag/v1.0.0
 
 ## Requirements to Use.
 
