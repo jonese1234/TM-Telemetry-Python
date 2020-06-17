@@ -351,3 +351,11 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+Examples/Basic/.idea/workspace.xml
+Examples/Basic/.idea/vcs.xml
+Examples/Basic/.idea/modules.xml
+Examples/Basic/.idea/misc.xml
+Examples/Basic/.idea/inspectionProfiles/profiles_settings.xml
+Examples/Basic/.idea/Basic.iml
+Src/Mania_Telemetry/Mania_Telemetry.vcxproj
+Src/Mania_Telemetry/Mania_Telemetry.vcxproj.filters
